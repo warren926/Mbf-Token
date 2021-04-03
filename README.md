@@ -1,4 +1,4 @@
-# Mbf-Token
+# Perintah
 
 ♥ pkg update && upgrade
 ♥ pkg install git
